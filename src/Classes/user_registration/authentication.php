@@ -1,10 +1,3 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: sAlek Chowdhury
- * Date: 29-Mar-20
- * Time: 7:39 AM
- */
 
 namespace App\user_registration;
 use App\Model\Database as DB;
