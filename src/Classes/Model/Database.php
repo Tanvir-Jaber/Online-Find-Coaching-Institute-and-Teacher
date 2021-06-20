@@ -1,10 +1,3 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: sAlek Chowdhury
- * Date: 22-Mar-20
- * Time: 4:34 AM
- */
 
 namespace App\Model;
 
