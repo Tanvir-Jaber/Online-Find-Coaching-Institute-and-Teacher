@@ -1,10 +1,3 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: sAlek Chowdhury
- * Date: 26-Mar-20
- * Time: 12:46 PM
- */
 
 namespace App\Utility;
 
